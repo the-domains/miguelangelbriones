@@ -1,0 +1,28 @@
+name: MiguelAngelBriones
+favicon: null
+layout_spectrum: 0.48776485840789974
+typography_spectrum: 0.4367106237914413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9531571620609611
+  lightness: 0.5141205522231758
+  saturation: 0.7444978239946067
+  rhythmicContrast: 0.3245710674673319
+purpose: []
