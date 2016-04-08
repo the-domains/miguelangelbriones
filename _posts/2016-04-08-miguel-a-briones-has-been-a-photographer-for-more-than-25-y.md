@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Miguel A. Briones has been a photographer for more than 25 years with different specialties like fashion,fine art,advertising, editorial, journalism, aerial, nature and wildlife, underwater, mobile photography and more.'
-datePublished: '2016-04-08T17:37:41.962Z'
-dateModified: '2016-04-08T17:37:18.972Z'
+datePublished: '2016-04-08T17:42:30.186Z'
+dateModified: '2016-04-08T17:42:12.280Z'
 title: ''
 author: []
 authors: []
@@ -22,6 +22,8 @@ url: miguel-a-briones-has-been-a-photographer-for-more-than-25-y/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b83844e7-e453-4173-9cda-aea9292dd93f.jpg)
+
 Miguel A. Briones has been a photographer for more than 25 years with different specialties like fashion,fine art,advertising, editorial, journalism, aerial, nature and wildlife, underwater, mobile photography and more.
 
 He's work has appear in magazines such as Vogue, ELLE, WWD, Fashion Spectrum, Hola, among others.
